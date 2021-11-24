@@ -1,1 +1,4 @@
-# terminal-test
+to day 11/24
+# 20183186 김병옥
+
+# SW오픈소스  실습
